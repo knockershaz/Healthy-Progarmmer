@@ -1,0 +1,6 @@
+Tue Jan 18 19:36:45 2022 : Drank water  1 time
+Tue Jan 18 19:37:33 2022 : Drank water  2 time
+Tue Jan 18 20:46:16 2022 : Drank water  1 time
+Tue Jan 18 20:46:55 2022 : Drank water  2 time
+Sun Jan 23 20:32:21 2022 : Drank water  1 time
+Sun Jan 23 20:33:01 2022 : Drank water  2 time
